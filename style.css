@@ -1,0 +1,45 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #F8F8F8;
+}
+
+.red {
+    width: 60vw;
+    height: 100px;
+    background-color: #E93031;
+}
+
+.font-title {
+    font-family: 'Ernest', sans-serif;
+    font-size: 30px;
+    color: #f8f8f8;
+}
+
+.font-footer{
+    font-family: 'Ernest', sans-serif;
+    font-size: 20px;
+    color: #f8f8f8;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.content {
+    width: 60vw;
+    height: 100vh;
+    background-color: #FCFDFD;
+}
+
+.textTitle{
+    width: 100%;
+    background-color: #DB3233;
+    color: ghostwhite;
+    font-family: 'Ernest', sans-serif;
+    font-size: 25px;
+}
+
+.textContent{
+    width: 100%;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 18px;
+}
