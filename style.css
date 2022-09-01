@@ -11,13 +11,13 @@ body {
 }
 
 .font-title {
-    font-family: 'Ernest', sans-serif;
+    font-family: 'Silkscreen', cursive;
     font-size: 30px;
     color: #f8f8f8;
 }
 
 .font-footer{
-    font-family: 'Ernest', sans-serif;
+    font-family: 'Silkscreen', cursive;
     font-size: 20px;
     color: #f8f8f8;
     display: flex;
@@ -34,7 +34,7 @@ body {
     width: 100%;
     background-color: #DB3233;
     color: ghostwhite;
-    font-family: 'Ernest', sans-serif;
+    font-family: 'Silkscreen', cursive;
     font-size: 25px;
 }
 
