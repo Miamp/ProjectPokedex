@@ -118,8 +118,7 @@ class Pokemon {
             let type = capitalizeFirstLetter(pokemon[i].type[0])
             if (this.pokemon.weakness.includes(type) == true) {
 
-                return [pokemon[i].name
-                ];
+                return [pokemon[i].name];
             }
         }
     }
